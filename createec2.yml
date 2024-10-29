@@ -6,7 +6,7 @@
   tags: provisioning
 
   vars:
-    keypair: keypair
+    keypair: My_key_jenkins
     instance_type: t2.micro
     instance_name: test-ec2-instance
     image: ami-0866a3c8686eaeeba
